@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+}
+
+.app > div > div > .orderTotal {
+  width: 80%;
+  margin: auto auto 0;
+  padding: 10px 5% 0;
+}
+
+.app > div > div > .orderTotal .orderTotalAmount {
+  font-weight: bold;
+}
